@@ -32,10 +32,6 @@ public class AssignmentPOEPart1NGTest {
     public void setUpMethod() throws Exception {
     }
 
-    /**
-     *
-     * @throws Exception
-     */
     @AfterMethod
     public void tearDownMethod() throws Exception {
     }
